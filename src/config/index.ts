@@ -40,11 +40,11 @@ export const siteConfig: Metadata = {
     "css",
   ] as Array<string>,
   authors: {
-    name: "Sanidhya Kumar Verma",
-    url: "https://github.com/sanidhyy",
+    name: "Pratiksha Kadam",
+    url: "https://github.com/lastoyster",
   },
 } as const;
 
 export const links = {
-  sourceCode: "https://github.com/sanidhyy/duolingo-clone",
+  sourceCode: "https://github.com/lastoyster/duolingo-clone",
 } as const;
